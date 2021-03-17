@@ -1,0 +1,21 @@
+footer {
+background-color: aqua;background: size 25px;;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font: 1em sans-serif;
+background-position: bottom;
+font-size: 25px;
+border-radius: 12px double rgba(20, 207, 192, 0.705);
+display: inline;
+}
+a:link{
+color: black;
+}
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+    animation:both;
+    color: brown;
+text-transform: uppercase;
+outline-offset: 5px;
+} 
